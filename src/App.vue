@@ -19,7 +19,7 @@ export default{
 
 <style>
 .page {
-    max-width: 100px;
+    max-width: 400px;
     margin: auto;
 }
 </style>
